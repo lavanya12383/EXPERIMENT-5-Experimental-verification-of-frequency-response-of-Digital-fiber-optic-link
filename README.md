@@ -1,5 +1,8 @@
+## ARIGALA LAVANYA
+## 212222060019
+## 11-11-2025
 
-Exp 5 Experimental verification of frequency response of Digital fiber optic link
+## Exp 5 Experimental verification of frequency response of Digital fiber optic link
 # Digital Fiber Optic Link Analysis (600nm)
 
 ## AIM
@@ -46,14 +49,16 @@ Fiber optic links can be used for transmission of digital as well as analog sign
 
 ## BLOCK DIAGRAM
 
-*(Insert block diagram here)*
+<img width="850" height="468" alt="image" src="https://github.com/user-attachments/assets/444382d4-244e-4893-a5a4-c00ad6f2dc61" />
+
 
 ---
 
 ## CONNECTION DIAGRAM  
 **Setting up a Digital Link**
 
-*(Insert connection diagram here)*
+<img width="582" height="195" alt="image" src="https://github.com/user-attachments/assets/4d7a06ab-61b6-49aa-bd08-e3e9d78a529a" />
+
 
 ---
 
@@ -68,10 +73,11 @@ Fiber optic links can be used for transmission of digital as well as analog sign
 
 ## MODEL GRAPH
 
-*(Insert model graph here)*
+<img width="295" height="171" alt="image" src="https://github.com/user-attachments/assets/11f9894b-f545-470c-a2ea-6663102f2b2f" />
+
 
 ---
 
 ## RESULT
 
-*(Summarize observations and conclusions here)*
+The frequency response of a digital fiber optic link at approximately 600nm is primarily limited by dispersion, which causes signal distortion and reduces integrity at higher frequencies. The system acts as a low-pass filter with a finite bandwidth, and the 600nm wavelength, while suitable for lab demonstrations, exhibits higher attenuation and dispersion than near-infrared wavelengths used for long-distance communication
