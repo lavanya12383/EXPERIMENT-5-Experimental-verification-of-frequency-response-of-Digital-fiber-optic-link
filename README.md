@@ -1,6 +1,6 @@
 ## ARIGALA LAVANYA
 ## 212222060019
-## 11-11-2025
+
 
 ## Exp 5 Experimental verification of frequency response of Digital fiber optic link
 # Digital Fiber Optic Link Analysis (600nm)
@@ -70,6 +70,7 @@ Fiber optic links can be used for transmission of digital as well as analog sign
 |                |                              |              |            |
 
 ---
+[DIGITA;.pdf](https://github.com/user-attachments/files/23599254/DIGITA.pdf)
 
 ## MODEL GRAPH
 
