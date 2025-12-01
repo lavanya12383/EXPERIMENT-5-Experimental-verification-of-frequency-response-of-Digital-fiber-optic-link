@@ -79,7 +79,7 @@ Uploading image.png…
 [DIGITA;.pdf](https://github.com/user-attachments/files/23599254/DIGITA.pdf)
 
 ## MODEL GRAPH
-![Uploading 514708562-8859137a-529d-499a-9e0a-b3bc452209fb.png…]()
+
 
 
 <img width="295" height="171" alt="image" src="https://github.com/user-attachments/assets/11f9894b-f545-470c-a2ea-6663102f2b2f" />
