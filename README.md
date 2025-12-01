@@ -59,19 +59,6 @@ Uploading image.png…
 <img width="889" height="520" alt="514881161-a20c628c-ca06-4fc5-b44e-253bd7272006" src="https://github.com/user-attachments/assets/2a2536e0-80ac-464c-ba16-d858785180e3" />
 
 
-
----
-
-## CONNECTION DIAGRAM  
-**Setting up a Digital Link**
-
-
-
-<img width="582" height="195" alt="image" src="https://github.com/user-attachments/assets/4d7a06ab-61b6-49aa-bd08-e3e9d78a529a" />
-
-
----
-
 ## TABULATION  
 **Transmission through Digital Link**
 ![515321147-dfd56e88-afdd-4343-a229-ab09c26d3f82](https://github.com/user-attachments/assets/cc98b109-4607-44ef-a773-fc2815a8bd61)
