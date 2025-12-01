@@ -45,20 +45,26 @@ Uploading image.png…
 
  To measure the digital bandwidth of the phototransistor vary the input signal frequency and observe the detected signal at various frequencies.  Determine the frequency at which the detector stops recovering the signal. This determines the max. bit rate on the digital link.  Keep switch SW9 towards TX2 position.  Keep Jumper JP7 towards +5V position.  Remove fiber cable from SFH756V (660nm) and slightly unscrew the cap of SFH450V (950nm). Do not remove the cap from the connector. Once the cap is loosened, insert the one meter fiber into the cap. Now tighten the cap by screwing it back.  Observe the detected signal at post TTL OUT on oscilloscope.
 
-Uploading image.png…
+![517845004-94d808be-6a06-4454-9976-3ce0a5eebf68](https://github.com/user-attachments/assets/d1671c30-c780-4e5e-a72e-3b00796c81f5)
+
+<img width="652" height="236" alt="517845042-f900ecf4-dc51-4db4-84c6-426110a0b726" src="https://github.com/user-attachments/assets/3cc621ce-e2ed-4beb-8276-3e79312ecb45" />
+<img width="671" height="243" alt="517845100-2d1f3178-32bb-4966-96e1-3c5419495b17" src="https://github.com/user-attachments/assets/7337db71-4370-4f74-815a-60b23c563a0a" />
+
+
 ---
 
 
 ## BLOCK DIAGRAM
 
-<img width="850" height="468" alt="image" src="https://github.com/user-attachments/assets/444382d4-244e-4893-a5a4-c00ad6f2dc61" />
+<img width="889" height="520" alt="514881161-a20c628c-ca06-4fc5-b44e-253bd7272006" src="https://github.com/user-attachments/assets/2a2536e0-80ac-464c-ba16-d858785180e3" />
+
 
 
 ---
 
 ## CONNECTION DIAGRAM  
 **Setting up a Digital Link**
-<img width="1280" height="900" alt="514708522-1d82f476-c35a-4769-a2fa-75e8b5c71c1f" src="https://github.com/user-attachments/assets/7eecbbd1-0e4c-4c55-afce-21749cf67b65" />
+
 
 
 <img width="582" height="195" alt="image" src="https://github.com/user-attachments/assets/4d7a06ab-61b6-49aa-bd08-e3e9d78a529a" />
@@ -68,24 +74,22 @@ Uploading image.png…
 
 ## TABULATION  
 **Transmission through Digital Link**
-<img width="878" height="1280" alt="514708553-ba09ad4b-1eba-431a-8d68-69651bba0ae8" src="https://github.com/user-attachments/assets/97405846-335b-46eb-8416-daea41f57e24" />
+![515321147-dfd56e88-afdd-4343-a229-ab09c26d3f82](https://github.com/user-attachments/assets/cc98b109-4607-44ef-a773-fc2815a8bd61)
 
 
-| Frequency (Hz) | Output Signal Amplitude (Vo) | Gain = Vo/Vi | Gain in dB |
-|----------------|------------------------------|--------------|------------|
-|                |                              |              |            |
 
----
-[DIGITA;.pdf](https://github.com/user-attachments/files/23599254/DIGITA.pdf)
+
 
 ## MODEL GRAPH
 
 
 
-<img width="295" height="171" alt="image" src="https://github.com/user-attachments/assets/11f9894b-f545-470c-a2ea-6663102f2b2f" />
+<img width="964" height="434" alt="514881191-f4641f6a-6e05-433a-bae4-4109fa00ae65" src="https://github.com/user-attachments/assets/a7150cb7-a09b-48b1-a9fe-f9f1f502a328" />
 
 
----
+## GRAPH
+![517866752-d6920499-9d9c-4fb2-91c2-b8dab9bdd245](https://github.com/user-attachments/assets/b386a9ab-8aee-4da2-862d-b9bf11894bb4)
+
 
 ## RESULT
 
